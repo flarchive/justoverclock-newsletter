@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of justoverclock/newsletter.** Not for installation: use [Packagist](https://packagist.org/packages/justoverclock/newsletter) or the [upstream repository](https://github.com/justoverclockl/newsletter).
 
-**0** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/justoverclock-newsletter/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.2.0`
+**2** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/justoverclock-newsletter/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2024-12-06 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-newsletter/tree/archive/v1.0.0) |
+| `1.0.1` | 2024-12-06 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-newsletter/tree/archive/v1.0.1) |
 
 Catalog entry: [packages/justoverclock-newsletter.json](https://github.com/flarchive/archive-index/blob/main/packages/justoverclock-newsletter.json)
 
